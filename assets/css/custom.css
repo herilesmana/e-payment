@@ -1,0 +1,17 @@
+#hasil{
+	
+@font-face:arial;
+margin: 0 auto;
+border-radius:solid 10px ;
+
+}
+
+
+.row-centeres{
+
+	text-align: center;
+}
+.col-centered{
+	display:inline-block;
+	float:none;
+}

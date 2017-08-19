@@ -334,7 +334,7 @@ include "fungsi/format_all.php";
 							</li>
 
 							<li class="">
-								<a href="form-elements-2.html">
+								<a href="/?page=spp">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Trans SPP dan TP2A
 								</a>

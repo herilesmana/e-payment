@@ -94,6 +94,13 @@ if (isset($_GET['page'])) {
 					case "dsp":
 					include("modul/modul_dsp/trans_dsp.php");
 					break;
+					/***********************Transaksi SPP****************/
+					case "spp":
+					include("modul/modul_transaksi_spp/bayar_spp.php");
+					break;
+					case "lunasi_spp":
+					include("modul/modul_transaksi_spp/lunasi_spp.php");
+					break;
 
 
 

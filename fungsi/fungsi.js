@@ -1,4 +1,4 @@
-<script type="text/javascript">
+<script>
 function muncul(){
   $(document).ready(function()
                 {setTimeout(function(){$("#hasil").fadeIn('slow');}, 500);});
@@ -7,5 +7,4 @@ function muncul(){
 
 
 }
-
 </script>
